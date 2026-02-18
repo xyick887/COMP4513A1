@@ -2,9 +2,9 @@
 ## Overview
 This project is an API for querying songs by multiple different options, like artists, songs, playlists, and moods. The data is then returned in JSON format.
 ## Built With
-* Node JS
-* Express
-* Render
+* Node.js
+* Express.js
+* Hosted on Render (https://comp4513a1.onrender.com/)
 ## API Endpoints
 | API Endpoint  | Description |
 | ------------- | ------------- |
