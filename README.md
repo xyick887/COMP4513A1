@@ -1,10 +1,14 @@
 # Hit songs from 2016-2019 (COMP 4513 A1)
 ## Overview
 This project is an API for querying songs by multiple different options, like artists, songs, playlists, and moods. The data is then returned in JSON format.
-## Built With
+## Built with
+### Back-End
 * Node.js
 * Express.js
-* Hosted on Render (https://comp4513a1.onrender.com/)
+### Database
+* Supabase
+### Deployment
+* [Render](https://comp4513a1.onrender.com/)
 ## API Endpoints
 | API Endpoint  | Description |
 | ------------- | ------------- |
@@ -43,8 +47,8 @@ This project is an API for querying songs by multiple different options, like ar
 - [/api/songs/search/any/love](https://comp4513a1.onrender.com/api/songs/search/any/love)
 - [/api/songs/search/year/2017](https://comp4513a1.onrender.com/api/songs/search/year/2017)
 - [/api/songs/search/year/2027](https://comp4513a1.onrender.com/api/songs/search/year/2027)
-- [/api/songs/artist/149](https://comp4513a1.onrender.com/api/songs/149)
-- [/api/songs/artist/7834562](https://comp4513a1.onrender.com/api/songs/7834562)
+- [/api/songs/artist/149](https://comp4513a1.onrender.com/api/songs/artist/149)
+- [/api/songs/artist/7834562](https://comp4513a1.onrender.com/api/songs/artist/7834562)
 - [/api/songs/genre/115](https://comp4513a1.onrender.com/api/songs/genre/115)
 - [/api/playlists](https://comp4513a1.onrender.com/api/playlists)
 - [/api/playlists/3](https://comp4513a1.onrender.com/api/playlists/3)
